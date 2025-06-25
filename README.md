@@ -86,7 +86,7 @@ if __name__ == "__main__":
 -ScaleFactor = Görüntüyü küçültme oranı. Daha düşük değerler daha hassas ama yavaş olur.  
 -MinNeighbors = Bir bölgenin yüz olarak kabul edilmesi için gereken komşuluk sayısı.  
 
-**Önerilen Değerler**
+**Önerilen Değerler**  
 -scaleFactor=1.2: Gerçek zamanlı uygulamalar için dengeli hız ve doğruluk sağlar.  
 -minNeighbors=5: Yanlış pozitifleri azaltır, daha kararlı sonuç verir.
 
